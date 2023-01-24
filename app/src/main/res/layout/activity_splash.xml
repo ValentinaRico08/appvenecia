@@ -8,4 +8,6 @@
     android:background="@drawable/venecia"
     tools:context=".Splash">
 
+
+
 </android.support.constraint.ConstraintLayout>
