@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Venecia</string>
+    <string name="restau">Restaurantes</string>
+    <string name="hotel">Hoteles</string>
+    <string name="sitio">Sitios Turísticos</string>
+    <string name="guia">Guías Turísticos</string>
+    <string name="acerca">Acerca de</string>
+    <string name="español">Español</string>
+    <string name="ingles">Inglés</string>
+    <string name="portugues">Portugués</string>
 </resources>

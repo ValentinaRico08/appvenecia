@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Venecia</string>
+    <string name="restau">Restaurants</string>
+    <string name="hotel">Hotels</string>
+    <string name="sitio">Tourist Sites</string>
+    <string name="guia">Tour Guides</string>
+    <string name="acerca">About</string>
+    <string name="español">Spanish</string>
+    <string name="ingles">English</string>
+    <string name="portugues">Portuguese</string>
+</resources>
