@@ -8,4 +8,14 @@
     <string name="español">Español</string>
     <string name="ingles">Inglés</string>
     <string name="portugues">Portugués</string>
+    <string name="nombre">Valentina Taborda Rico</string>
+    <string name="estudio">Técnico en Desarrollo de Software</string>
+    <string name="correo">valentina18tabordarico@gmail.com</string>
+    <string name="tituloguia">¿Eres guía turístico en Venecia?</string>
+    <string name="inscribete">¡Inscribete!</string>
+    <string name="nombreguia">Nombre y Apellidos</string>
+    <string name="correoguia">Correo Electrónico</string>
+    <string name="telefonoguia">Número de Celular</string>
+    <string name="pequedescripcion">Pequeña Descripción</string>
+    <string name="registrar">Registrar</string>
 </resources>

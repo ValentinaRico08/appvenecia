@@ -49,7 +49,8 @@ public class MainActivity extends AppCompatActivity {
         switch (itemSeleccionado){
 
             case(R.id.opcion1):
-                Toast.makeText(this,"Seleccionaste opción 1",Toast.LENGTH_SHORT);
+                Intent intent = new Intent(MainActivity.this,Acercade.class);
+                startActivity(intent);
                 break;
 
             case(R.id.opcion2):

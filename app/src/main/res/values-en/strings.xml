@@ -9,4 +9,14 @@
     <string name="español">Spanish</string>
     <string name="ingles">English</string>
     <string name="portugues">Portuguese</string>
+    <string name="nombre">Valentina Taborda Rico</string>
+    <string name="estudio">Software Development Technician </string>
+    <string name="correo">valentina18tabordarico@gmail.com</string>
+    <string name="tituloguia">Are you a tour guide in Venice?</string>
+    <string name="inscribete">¡Sign Up!</string>
+    <string name="nombreguia">Name and Surname</string>
+    <string name="correoguia">Email</string>
+    <string name="telefonoguia">Cell Phone Number</string>
+    <string name="pequedescripcion">Little Descriptión</string>
+    <string name="registrar">To Register</string>
 </resources>
