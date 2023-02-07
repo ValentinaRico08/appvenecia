@@ -3,7 +3,7 @@
     <string name="restau">Restaurantes</string>
     <string name="hotel">Hoteles</string>
     <string name="sitio">Sitios Turísticos</string>
-    <string name="guia">Guías Turísticos</string>
+    <string name="historia">Fotografías.</string>
     <string name="acerca">Acerca de</string>
     <string name="español">Español</string>
     <string name="ingles">Inglés</string>
@@ -11,11 +11,13 @@
     <string name="nombre">Valentina Taborda Rico</string>
     <string name="estudio">Técnico en Desarrollo de Software</string>
     <string name="correo">valentina18tabordarico@gmail.com</string>
-    <string name="tituloguia">¿Eres guía turístico en Venecia?</string>
-    <string name="inscribete">¡Inscribete!</string>
-    <string name="nombreguia">Nombre y Apellidos</string>
-    <string name="correoguia">Correo Electrónico</string>
-    <string name="telefonoguia">Número de Celular</string>
-    <string name="pequedescripcion">Pequeña Descripción</string>
-    <string name="registrar">Registrar</string>
+    <string name="tituloHistoria">¡TE ESPERAMOS!</string>
+    <string name="springs">Cerro Tusa Springs</string>
+    <string name="servicios">Servicios</string>
+    <string name="wifi">WiFi gratis</string>
+    <string name="restaurante">Restaurante</string>
+    <string name="piscina">Piscina al aire libre</string>
+    <string name="parking">Parking gratis</string>
+    <string name="precio">$350.000 COP por noche</string>
+
 </resources>

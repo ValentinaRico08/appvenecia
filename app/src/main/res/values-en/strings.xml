@@ -4,7 +4,7 @@
     <string name="restau">Restaurants</string>
     <string name="hotel">Hotels</string>
     <string name="sitio">Tourist Sites</string>
-    <string name="guia">Tour Guides</string>
+    <string name="historia">Photographs.</string>
     <string name="acerca">About</string>
     <string name="español">Spanish</string>
     <string name="ingles">English</string>
@@ -12,11 +12,13 @@
     <string name="nombre">Valentina Taborda Rico</string>
     <string name="estudio">Software Development Technician </string>
     <string name="correo">valentina18tabordarico@gmail.com</string>
-    <string name="tituloguia">Are you a tour guide in Venice?</string>
-    <string name="inscribete">¡Sign Up!</string>
-    <string name="nombreguia">Name and Surname</string>
-    <string name="correoguia">Email</string>
-    <string name="telefonoguia">Cell Phone Number</string>
-    <string name="pequedescripcion">Little Descriptión</string>
-    <string name="registrar">To Register</string>
+    <string name="tituloHistoria">¡WE WILL WAIT FOR YOU!</string>
+    <string name="springs">Tusa Springs Hill</string>
+    <string name="servicios">Services</string>
+    <string name="wifi">Free WiFi</string>
+    <string name="restaurante">Restaurant</string>
+    <string name="piscina">Outdoor pool</string>
+    <string name="parking">Free parking</string>
+    <string name="precio">$350.000 COP for night</string>
+
 </resources>

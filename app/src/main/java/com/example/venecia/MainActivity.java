@@ -9,11 +9,18 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
+
+    ImageButton botonHotel;
+    ImageButton botonRestaurante;
+    ImageButton botonSitiosTuristicos;
+    ImageButton botonhistoria;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +31,28 @@ public class MainActivity extends AppCompatActivity {
 
         ColorDrawable colorBarra = new ColorDrawable(Color.parseColor("#e4b14a"));
         barra.setBackgroundDrawable(colorBarra);
+
+        botonHotel = findViewById(R.id.botones);
+        botonRestaurante = findViewById(R.id.restaurantes);
+        botonSitiosTuristicos = findViewById(R.id.turistico);
+        botonhistoria = findViewById(R.id.imagenHistoria);
+
+        botonHotel.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intentHoteles = new Intent(MainActivity.this,Hoteles.class);
+                startActivity(intentHoteles);
+            }
+        });
+
+        botonhistoria.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intentHistoria = new Intent(MainActivity.this, Historia.class);
+                startActivity(intentHistoria);
+            }
+        });
+
     }
 
     public void cambiarIdioma(String idioma) {
