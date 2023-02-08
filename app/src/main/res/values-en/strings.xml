@@ -20,5 +20,24 @@
     <string name="piscina">Outdoor pool</string>
     <string name="parking">Free parking</string>
     <string name="precio">$350.000 COP for night</string>
-
+    <string name="granja">Coffee Farm</string>
+    <string name="precio2">$680.000 COP for night</string>
+    <string name="manigua">Manigua country house</string>
+    <string name="precio3">$1.150.000 COP for night</string>
+    <string name="houst">Housy Houst</string>
+    <string name="precio4">$584.000 COP for night</string>
+    <string name="resGraciela">La Graciela Restaurant</string>
+    <string name="tiposcomida">Types of food:</string>
+    <string name="comida">Brewery, Bar, Pizzeria, Cafe, Pub, Wine Bar</string>
+    <string name="restaurantebalcon">Restaurant Bar Balcony</string>
+    <string name="comida2">Its delicious food is the recipe for success of this restaurant: its bandeja paisa is perfectly prepared</string>
+    <string name="restaurantecrisalida">Chrysalis Restaurant</string>
+    <string name="comida3">Bar, Café, Pub.</string>
+    <string name="acti">Activities</string>
+    <string name="cerro">Tusa Hill</string>
+    <string name="cerrobravo">Brave Hill</string>
+    <string name="cuevas">Caves of Santa Catalina</string>
+    <string name="diosa">Mirror Goddess</string>
+    <string name="mirado">Miraflores Viewpoint</string>
+    <string name="piedra">The Sacrificial Stone</string>
 </resources>

@@ -37,6 +37,22 @@ public class MainActivity extends AppCompatActivity {
         botonSitiosTuristicos = findViewById(R.id.turistico);
         botonhistoria = findViewById(R.id.imagenHistoria);
 
+        botonSitiosTuristicos.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intentActividades = new Intent(MainActivity.this,Actividades.class);
+                startActivity(intentActividades);
+            }
+        });
+
+        botonRestaurante.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intenRestaurantes = new Intent(MainActivity.this,Restaurantes.class);
+                startActivity(intenRestaurantes);
+            }
+        });
+
         botonHotel.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {

@@ -58,7 +58,7 @@ public class Adaptador extends RecyclerView.Adapter<Adaptador.viewHolder>{
             fotoRestaurante=itemView.findViewById(R.id.imagenrestaurante);
             textoRestaurante=itemView.findViewById(R.id.textorestaurante);
             fotoPiscina=itemView.findViewById(R.id.imagenpiscina);
-            textoPiscina=itemView.findViewById(R.id.textorestaurante);
+            textoPiscina=itemView.findViewById(R.id.textopiscina);
             fotoParking=itemView.findViewById(R.id.imagenparking);
             textoParking=itemView.findViewById(R.id.textoparking);
             precioHotel=itemView.findViewById(R.id.textoprecio);

@@ -19,6 +19,25 @@
     <string name="restaurante">Restaurante</string>
     <string name="piscina">Piscina exterior</string>
     <string name="parking">Estacionamiento grátis</string>
-    <string name="precio">$350.000 COP for noite</string>
-
+    <string name="precio">$350.000 COP por noite</string>
+    <string name="granja">Fazenda de Café</string>
+    <string name="precio2">$680.000 COP por noite</string>
+    <string name="manigua">Casa de campo Maniguá</string>
+    <string name="precio3">$1.150.000 COP por noite</string>
+    <string name="houst">Housy Houst</string>
+    <string name="precio4">$584.000 COP por noite</string>
+    <string name="resGraciela">Restaurante La Graciela</string>
+    <string name="tiposcomida">Tipos de comida:</string>
+    <string name="comida">Cervejaria, Bar, Pizzaria, Café, Pub, Wine Bar</string>
+    <string name="restaurantebalcon">Restaurante Bar Varanda</string>
+    <string name="comida2">A sua deliciosa comida é a receita do sucesso deste restaurante: a sua bandeja paisa está perfeitamente confeccionada. </string>
+    <string name="restaurantecrisalida">Restaurante Crisálida</string>
+    <string name="comida3">Bar, Café, Pub.</string>
+    <string name="acti">Atividades</string>
+    <string name="cerro">Colina Tusa</string>
+    <string name="cerrobravo">Colina Corajosa</string>
+    <string name="cuevas">Grutas de Santa Catalina</string>
+    <string name="diosa">Deusa do Espelho</string>
+    <string name="mirado">Miradouro de Miraflores</string>
+    <string name="piedra">A Pedra Sacrificial</string>
 </resources>
